@@ -6,3 +6,7 @@
 	path = urbvan
 	url = git@git.vauxoo.com:vauxoo/urbvan.git
 	branch = 13.0
+[submodule "xunnel-account"]
+	path = xunnel-account
+	url = git@git.vauxoo.com:Vauxoo/xunnel-account.git
+	branch = 13.0
