@@ -10,3 +10,7 @@
 	path = xunnel-account
 	url = git@git.vauxoo.com:Vauxoo/xunnel-account.git
 	branch = 13.0
+[submodule "vendor-bills"]
+	path = vendor-bills
+	url = git@git.vauxoo.com:Vauxoo/vendor-bills.git
+	branch = 13.0
