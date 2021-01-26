@@ -18,3 +18,7 @@
 	path = mexico
 	url = git@git.vauxoo.com:Vauxoo/mexico.git
 	branch = 13.0
+[submodule "hr-advanced"]
+	path = hr-advanced
+	url = git@git.vauxoo.com:vauxoo/hr-advanced.git
+	branch = 13.0
