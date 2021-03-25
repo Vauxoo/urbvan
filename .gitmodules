@@ -26,3 +26,7 @@
 	path = hr-advanced
 	url = git@git.vauxoo.com:vauxoo/hr-advanced.git
 	branch = 13.0
+[submodule "account-financial-tools"]
+	path = account-financial-tools
+    url = git@github.com:Vauxoo/account-financial-tools.git
+    branch = 13.0
