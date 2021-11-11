@@ -30,3 +30,7 @@
 	path = l10n-mx-electronic-accounting
 	url = git@git.vauxoo.com:vauxoo/l10n-mx-electronic-accounting.git
 	branch = 13.0
+[submodule "account-financial-tools"]
+	path = account-financial-tools
+	url = git@github.com:Vauxoo/account-financial-tools.git
+	branch = 13.0
