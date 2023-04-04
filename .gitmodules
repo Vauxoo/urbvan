@@ -34,3 +34,7 @@
 	path = account-financial-tools
 	url = git@github.com:Vauxoo/account-financial-tools.git
 	branch = 13.0
+[submodule "l10n-mx-edi-40"]
+	path = l10n-mx-edi-40
+	url = git@git.vauxoo.com:vauxoo/l10n-mx-edi-40.git
+	branch = 13.0
